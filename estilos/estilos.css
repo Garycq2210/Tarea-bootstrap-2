@@ -1,0 +1,29 @@
+body
+{    
+    background-repeat: no-repeat;
+    background-size: cover;       
+}
+.container
+{
+    background-color: aquamarine;
+    width: 400px;
+    height: 100px;
+}
+.container-fluid
+{        
+    
+}
+.row   
+{
+    background-color: bisque;
+    margin: 5px;    
+}
+.col
+{
+    background-color: rgb(230, 200, 162);
+    margin: 5px;
+}
+.rubik-moonrocks-regular
+{
+    background-color: antiquewhite;
+}
